@@ -18,7 +18,7 @@ Before you begin, make sure you have the following software installed:
 1. Clone this repository to your local machine:
 
 ```bash
-   git clone <https://github.com/Kapil7982/ChatBot.git>
+  https://github.com/mohammadzameerp/AI-Chat.git
 ```
 
 ### Features
@@ -31,7 +31,4 @@ React: For building the user interface.
 Axios: For making HTTP requests to interact with a chatbot server
 ### Customization
 You can customize and extend this chat application according to your requirements. You might want to enhance the UI, add more features, or integrate it with a more sophisticated chatbot service.
-
-![image](https://github.com/Kapil7982/ChatBot/assets/103938868/cc188223-ef49-4861-a656-f2806c43fd34)
-
 
